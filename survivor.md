@@ -16,5 +16,5 @@
 | Solomon “Sol” Yi | 43 | Del City, Okla. | Norwalk, Conn. | Medical device sales |
 | Sue Smey | 59 | Kirkwood, N.Y. | Putnam Valley, N.Y. | Flight school owner |
 | Teeny Chirichillo | 24 | Manahawkin, N.J. | Manahawkin, N.J. | Freelance writer |
-| Terran “TK” Foster | 31 | Prince George’s County, Md. | Upper Marlboro, Md. | Athlete marketing  |manager
+| Terran “TK” Foster | 31 | Prince George’s County, Md. | Upper Marlboro, Md. | Athlete marketing  |
 | Tiyana Hallums | 27 | Aiea, Hawaii | Aiea, Hawaii | Flight attendant |

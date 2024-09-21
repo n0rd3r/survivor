@@ -1,3 +1,12 @@
+|Team|Points|
+| -------- | -------- |
+| Gramps | 13 | 
+| Leeann | 3 | 
+| Jen | 3 | 
+| Jeff | 2 | 
+| Brandon | 2 | 
+| Annabelle | 2 | 
+
 | Name | Age | Hometown | Currently Lives | Occupation | Team |
 | -------- | -------- | -------- | -------- | -------- | ----- |
 | Andy Rueda | 31 | Buffalo, N.Y. | Buffalo, N.Y. | AI research assistant | Leeann |

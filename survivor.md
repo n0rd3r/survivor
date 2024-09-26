@@ -1,8 +1,8 @@
 |Team|Points|
 | -------- | -------- |
 | Gramps | 14 | 
+| Jen | 6 |
 | Leeann | 4 | 
-| Jen | 4 | 
 | Jeff | 3 | 
 | Brandon | 3 | 
 | Annabelle | 3 | 

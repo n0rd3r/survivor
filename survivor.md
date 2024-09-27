@@ -1,6 +1,6 @@
 |Team|Points|
 | -------- | -------- |
-| Gramps | 14 | 
+| Gramps | 13 | 
 | Jen | 6 |
 | Leeann | 4 | 
 | Jeff | 3 | 

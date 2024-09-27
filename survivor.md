@@ -15,7 +15,7 @@
 | Caroline Vidmar | 27 | Palos Verdes, Calif. | Chicago, Ill. | Strategy consultant | Annabelle |
 | Gabe Ortis | 26 | Baltimore, Md. | Baltimore, Md. | Radio show host | Brandon |
 | Genevieve Mushaluk | 33 | Winnipeg, Manitoba | Winnipeg, Manitoba | Corporate lawyer | Leeann |
-| Jon Lovett | 42 | Long Island, N.Y. | Los Angeles, Calif. | Podcast host | Gramps |
+| ~~Jon Lovett~~ | 42 | Long Island, N.Y. | Los Angeles, Calif. | Podcast host | Gramps |
 | Kishan Patel | 28 | Fullerton, Calif. | San Francisco, Calif. | ER doctor | Annabelle |
 | Kyle “Kyle Rhen” Otswald | 31 | Cheyboygan, Mich. | Cheyboygan, Mich. | Construction worker | Gramps |
 | Rachel Lamont | 34 | Dexter, Mich. | Southfield, Mich. | Graphic designer | Brandon |
@@ -25,5 +25,5 @@
 | Solomon “Sol” Yi | 43 | Del City, Okla. | Norwalk, Conn. | Medical device sales | Gramps |
 | Sue Smey | 59 | Kirkwood, N.Y. | Putnam Valley, N.Y. | Flight school owner | Jen |
 | Teeny Chirichillo | 24 | Manahawkin, N.J. | Manahawkin, N.J. | Freelance writer | Brandon |
-| Terran “TK” Foster | 31 | Prince George’s County, Md. | Upper Marlboro, Md. | Athlete marketing  | Jen |
+| ~~Terran “TK” Foster~~ | 31 | Prince George’s County, Md. | Upper Marlboro, Md. | Athlete marketing  | Jen |
 | Tiyana Hallums | 27 | Aiea, Hawaii | Aiea, Hawaii | Flight attendant | Jeff |

@@ -1,17 +1,17 @@
 |Team|Points|
 | -------- | -------- |
 | Gramps | 13 | 
-| Jen | 6 |
-| Leeann | 4 | 
-| Jeff | 3 | 
-| Brandon | 3 | 
-| Annabelle | 3 | 
+| Jen | 7 |
+| Jeff | 7 | 
+| Leeann | 5 | 
+| Brandon | 4 | 
+| Annabelle | 4 | 
 
 | Name | Age | Hometown | Currently Lives | Occupation | Team |
 | -------- | -------- | -------- | -------- | -------- | ----- |
 | Andy Rueda | 31 | Buffalo, N.Y. | Buffalo, N.Y. | AI research assistant | Leeann |
 | Anika Dhar | 26 | Santa Rosa, Calif. | Los Angeles, Calif. | Marketing manager | Jen |
-| Aysha Welch | 32 | DeSoto, Texas | Houston, Texas | IT consultant | Jeff |
+| ~~Aysha Welch~~ | 32 | DeSoto, Texas | Houston, Texas | IT consultant | Jeff |
 | Caroline Vidmar | 27 | Palos Verdes, Calif. | Chicago, Ill. | Strategy consultant | Annabelle |
 | Gabe Ortis | 26 | Baltimore, Md. | Baltimore, Md. | Radio show host | Brandon |
 | Genevieve Mushaluk | 33 | Winnipeg, Manitoba | Winnipeg, Manitoba | Corporate lawyer | Leeann |

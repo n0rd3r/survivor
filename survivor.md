@@ -1,11 +1,12 @@
 |Team|Points|
 | -------- | -------- |
 | Gramps | 13 | 
-| Jen | 7 |
-| Jeff | 7 | 
-| Leeann | 5 | 
-| Brandon | 4 | 
-| Annabelle | 4 | 
+| Annabelle | 9 |
+| Jen | 8 |
+| Jeff | 8 | 
+| Leeann | 6 | 
+| Brandon | 5 | 
+ 
 
 | Name | Age | Hometown | Currently Lives | Occupation | Team |
 | -------- | -------- | -------- | -------- | -------- | ----- |
@@ -16,7 +17,7 @@
 | Gabe Ortis | 26 | Baltimore, Md. | Baltimore, Md. | Radio show host | Brandon |
 | Genevieve Mushaluk | 33 | Winnipeg, Manitoba | Winnipeg, Manitoba | Corporate lawyer | Leeann |
 | ~~Jon Lovett~~ | 42 | Long Island, N.Y. | Los Angeles, Calif. | Podcast host | Gramps |
-| Kishan Patel | 28 | Fullerton, Calif. | San Francisco, Calif. | ER doctor | Annabelle |
+| ~~Kishan Patel~~ | 28 | Fullerton, Calif. | San Francisco, Calif. | ER doctor | Annabelle |
 | Kyle “Kyle Rhen” Otswald | 31 | Cheyboygan, Mich. | Cheyboygan, Mich. | Construction worker | Gramps |
 | Rachel Lamont | 34 | Dexter, Mich. | Southfield, Mich. | Graphic designer | Brandon |
 | Rome Cooney | 30 | Corvallis, Ore. | Phoenix, Ariz. | E-Sports commentator | Leeann |

@@ -1,11 +1,11 @@
 |Team|Points|
 | -------- | -------- |
-| Gramps | 15 | 
+| Gramps | 17 | 
 | Jen | 15 |
 | Annabelle | 12 |
+| Leeann | 12 | 
 | Jeff | 10 | 
-| Leeann | 8 | 
-| Brandon | 6 | 
+| Brandon | 8 | 
  
 
 | Name | Age | Hometown | Currently Lives | Occupation | Team |
@@ -20,7 +20,7 @@
 | ~~Kishan Patel~~ | 28 | Fullerton, Calif. | San Francisco, Calif. | ER doctor | Annabelle |
 | Kyle “Kyle Rhen” Otswald | 31 | Cheyboygan, Mich. | Cheyboygan, Mich. | Construction worker | Gramps |
 | Rachel Lamont | 34 | Dexter, Mich. | Southfield, Mich. | Graphic designer | Brandon |
-| Rome Cooney | 30 | Corvallis, Ore. | Phoenix, Ariz. | E-Sports commentator | Leeann |
+| ~~Rome Cooney~~~ | 30 | Corvallis, Ore. | Phoenix, Ariz. | E-Sports commentator | Leeann |
 | Sam Phalen | 24 | Schaumburg, Ill. | Nashville, Tenn. | Sports reporter | Annabelle |
 | Sierra Wright | 27 | Wilmington, Del. | Phoenixville, Pa. | Nurse | Jeff |
 | Solomon “Sol” Yi | 43 | Del City, Okla. | Norwalk, Conn. | Medical device sales | Gramps |

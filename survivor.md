@@ -25,6 +25,6 @@
 | ~~Aysha Welch~~ | 32 | DeSoto, Texas | Houston, Texas | IT consultant | Jeff |
 | ~~Jon Lovett~~ | 42 | Long Island, N.Y. | Los Angeles, Calif. | Podcast host | Gramps |
 | ~~Kishan Patel~~ | 28 | Fullerton, Calif. | San Francisco, Calif. | ER doctor | Annabelle |
-| ~~Rome Cooney~~~ | 30 | Corvallis, Ore. | Phoenix, Ariz. | E-Sports commentator | Leeann |
+| ~~Rome Cooney~~ | 30 | Corvallis, Ore. | Phoenix, Ariz. | E-Sports commentator | Leeann |
 | ~~Terran “TK” Foster~~ | 31 | Prince George’s County, Md. | Upper Marlboro, Md. | Athlete marketing  | Jen |
 | ~~Tiyana Hallums~~ | 27 | Aiea, Hawaii | Aiea, Hawaii | Flight attendant | Jeff |

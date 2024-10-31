@@ -1,11 +1,11 @@
 |Team|Points|
 | -------- | -------- |
 | Gramps | 17 | 
+| Jeff | 17 | 
 | Jen | 15 |
+| Leeann | 14 | 
 | Annabelle | 12 |
-| Leeann | 12 | 
-| Jeff | 10 | 
-| Brandon | 8 | 
+| Brandon | 10 | 
  
 
 | Name | Age | Hometown | Currently Lives | Occupation | Team |
@@ -27,4 +27,4 @@
 | Sue Smey | 59 | Kirkwood, N.Y. | Putnam Valley, N.Y. | Flight school owner | Jen |
 | Teeny Chirichillo | 24 | Manahawkin, N.J. | Manahawkin, N.J. | Freelance writer | Brandon |
 | ~~Terran “TK” Foster~~ | 31 | Prince George’s County, Md. | Upper Marlboro, Md. | Athlete marketing  | Jen |
-| Tiyana Hallums | 27 | Aiea, Hawaii | Aiea, Hawaii | Flight attendant | Jeff |
+| ~~Tiyana Hallums~~ | 27 | Aiea, Hawaii | Aiea, Hawaii | Flight attendant | Jeff |

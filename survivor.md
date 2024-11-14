@@ -1,11 +1,11 @@
 |Team|Points|
 | -------- | -------- |
+| Gramps | 28 | 
 | Jeff | 25 | 
-| Gramps | 19 | 
 | Jen | 17 |
 | Leeann | 14 | 
 | Annabelle | 12 |
-| Brandon | 10 | 
+| Brandon | 12 | 
  
 
 | Name | Age | Hometown | Currently Lives | Occupation | Team |
@@ -17,9 +17,9 @@
 | Kyle “Kyle Rhen” Otswald | 31 | Cheyboygan, Mich. | Cheyboygan, Mich. | Construction worker | Gramps |
 | Rachel Lamont | 34 | Dexter, Mich. | Southfield, Mich. | Graphic designer | Brandon |
 | Sam Phalen | 24 | Schaumburg, Ill. | Nashville, Tenn. | Sports reporter | Annabelle |
-| Solomon “Sol” Yi | 43 | Del City, Okla. | Norwalk, Conn. | Medical device sales | Gramps |
 | Sue Smey | 59 | Kirkwood, N.Y. | Putnam Valley, N.Y. | Flight school owner | Jen |
 | Teeny Chirichillo | 24 | Manahawkin, N.J. | Manahawkin, N.J. | Freelance writer | Brandon |
+| ~~Solomon “Sol” Yi~~ | 43 | Del City, Okla. | Norwalk, Conn. | Medical device sales | Gramps |
 | ~~Sierra Wright~~ | 27 | Wilmington, Del. | Phoenixville, Pa. | Nurse | Jeff |
 | ~~Anika Dhar~~ | 26 | Santa Rosa, Calif. | Los Angeles, Calif. | Marketing manager | Jen |
 | ~~Aysha Welch~~ | 32 | DeSoto, Texas | Houston, Texas | IT consultant | Jeff |

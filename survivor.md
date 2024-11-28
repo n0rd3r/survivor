@@ -1,8 +1,8 @@
 |Team|Points|
 | -------- | -------- |
-| Gramps | 30 | 
+| Gramps | 41 | 
 | Jeff | 25 |
-| Brandon | 22 | 
+| Brandon | 24 | 
 | Jen | 17 |
 | Leeann | 14 | 
 | Annabelle | 12 |
@@ -13,11 +13,11 @@
 | Andy Rueda | 31 | Buffalo, N.Y. | Buffalo, N.Y. | AI research assistant | Leeann |
 | Caroline Vidmar | 27 | Palos Verdes, Calif. | Chicago, Ill. | Strategy consultant | Annabelle |
 | Genevieve Mushaluk | 33 | Winnipeg, Manitoba | Winnipeg, Manitoba | Corporate lawyer | Leeann |
-| Kyle “Kyle Rhen” Otswald | 31 | Cheyboygan, Mich. | Cheyboygan, Mich. | Construction worker | Gramps |
 | Rachel Lamont | 34 | Dexter, Mich. | Southfield, Mich. | Graphic designer | Brandon |
 | Sam Phalen | 24 | Schaumburg, Ill. | Nashville, Tenn. | Sports reporter | Annabelle |
 | Sue Smey | 59 | Kirkwood, N.Y. | Putnam Valley, N.Y. | Flight school owner | Jen |
 | Teeny Chirichillo | 24 | Manahawkin, N.J. | Manahawkin, N.J. | Freelance writer | Brandon |
+| ~~Kyle “Kyle Rhen” Otswald~~ | 31 | Cheyboygan, Mich. | Cheyboygan, Mich. | Construction worker | Gramps |
 | ~~Gabe Ortis~~ | 26 | Baltimore, Md. | Baltimore, Md. | Radio show host | Brandon |
 | ~~Solomon “Sol” Yi~~ | 43 | Del City, Okla. | Norwalk, Conn. | Medical device sales | Gramps |
 | ~~Sierra Wright~~ | 27 | Wilmington, Del. | Phoenixville, Pa. | Nurse | Jeff |

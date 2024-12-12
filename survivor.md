@@ -1,21 +1,21 @@
 |Team|Points|
 | -------- | -------- |
+| Leeann | 43 | 
 | Gramps | 41 | 
-| Brandon | 26 | 
+| Brandon | 28 | 
 | Jeff | 25 |
 | Annabelle | 24 |
 | Jen | 17 |
-| Leeann | 14 | 
  
 
 | Name | Age | Hometown | Currently Lives | Occupation | Team |
 | -------- | -------- | -------- | -------- | -------- | ----- |
-| Andy Rueda | 31 | Buffalo, N.Y. | Buffalo, N.Y. | AI research assistant | Leeann |
-| Genevieve Mushaluk | 33 | Winnipeg, Manitoba | Winnipeg, Manitoba | Corporate lawyer | Leeann |
 | Rachel Lamont | 34 | Dexter, Mich. | Southfield, Mich. | Graphic designer | Brandon |
 | Sam Phalen | 24 | Schaumburg, Ill. | Nashville, Tenn. | Sports reporter | Annabelle |
 | Sue Smey | 59 | Kirkwood, N.Y. | Putnam Valley, N.Y. | Flight school owner | Jen |
 | Teeny Chirichillo | 24 | Manahawkin, N.J. | Manahawkin, N.J. | Freelance writer | Brandon |
+| ~~Genevieve Mushaluk~~ | 33 | Winnipeg, Manitoba | Winnipeg, Manitoba | Corporate lawyer | Leeann |
+| ~~Andy Rueda~~ | 31 | Buffalo, N.Y. | Buffalo, N.Y. | AI research assistant | Leeann |
 | ~~Caroline Vidmar~~ | 27 | Palos Verdes, Calif. | Chicago, Ill. | Strategy consultant | Annabelle |
 | ~~Kyle “Kyle Rhen” Otswald~~ | 31 | Cheyboygan, Mich. | Cheyboygan, Mich. | Construction worker | Gramps |
 | ~~Gabe Ortis~~ | 26 | Baltimore, Md. | Baltimore, Md. | Radio show host | Brandon |

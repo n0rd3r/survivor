@@ -1,12 +1,12 @@
 |Team|Points|
 | -------- | -------- |
+| Brandon | 71 | 
 | Leeann | 43 | 
 | Gramps | 41 | 
-| Brandon | 28 | 
+| Annabelle | 40 |
+| Jen | 33 |
 | Jeff | 25 |
-| Annabelle | 24 |
-| Jen | 17 |
- 
+
 
 | Name | Age | Hometown | Currently Lives | Occupation | Team |
 | -------- | -------- | -------- | -------- | -------- | ----- |

@@ -5,7 +5,7 @@ Survivor 48
 | Brandon |  | Charity Nelms | Justin Pioppi |
 | Leeann |  | Kamilla Karthigesu | Saiounia "Sai" Hughley |
 | Gramps |  | David Kinne | Shauhin Davari |
-| Annabelle | Joe Hunter | Thomas Krottinger |
+| Annabelle | | Joe Hunter | Thomas Krottinger |
 | Jen |  | Star Toomey | Cedrek McFadden |
 | Jeff |  | Kyle Fraser | Stephanie Berger |
 | Christine |  | Chrissy Sarnowsky | Eva Erickson |

@@ -2,15 +2,16 @@ Survivor 48
 
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
-| Brandon |  | Charity Nelms | Justin Pioppi |
-| Leeann |  | Kamilla Karthigesu | Saiounia "Sai" Hughley |
-| Gramps |  | David Kinne | Shauhin Davari |
-| Annabelle | | Joe Hunter | Thomas Krottinger |
-| Jen |  | Star Toomey | Cedrek McFadden |
-| Jeff |  | Kyle Fraser | Stephanie Berger |
-| Christine |  | Chrissy Sarnowsky | Eva Erickson |
-| Sean | | Mary Zheng | Mitch Guerra |
-| Doggos | | Bianca Roses | Kevin Leung |
+| Jeff | 11 | Kyle Fraser | Stephanie Berger |
+| Annabelle | 4 | Joe Hunter | Thomas Krottinger |
+| Doggos | 4 | Bianca Roses | Kevin Leung |
+| Gramps | 2 | David Kinne | Shauhin Davari |
+| Jen | 2 | Star Toomey | Cedrek McFadden |
+| Christine | 2 | Chrissy Sarnowsky | Eva Erickson |
+| Brandon | 0  | Charity Nelms | Justin Pioppi |
+| Leeann | 0  | Kamilla Karthigesu | Saiounia "Sai" Hughley |
+| Sean | 0 | Mary Zheng | Mitch Guerra |
+
 
 
 | Name | Tribe | Team | Age | Hometown | Occupation |

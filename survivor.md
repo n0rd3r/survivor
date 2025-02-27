@@ -2,7 +2,7 @@ Survivor 48
 
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
-| Jeff | 11 | Kyle | ~~Stephanie Berger~~ |
+| Jeff | 11 | Kyle | ~~Stephanie~~ |
 | Annabelle | 4 | Joe | Thomas |
 | Doggos | 4 | Bianca | Kevin |
 | Gramps | 2 | David | Shauhin |

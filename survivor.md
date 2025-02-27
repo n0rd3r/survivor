@@ -2,7 +2,7 @@ Survivor 48
 
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
-| Jeff | 11 | Kyle Fraser | Stephanie Berger |
+| Jeff | 11 | Kyle Fraser | ~~Stephanie Berger~~ |
 | Annabelle | 4 | Joe Hunter | Thomas Krottinger |
 | Doggos | 4 | Bianca Roses | Kevin Leung |
 | Gramps | 2 | David Kinne | Shauhin Davari |
@@ -32,5 +32,5 @@ Survivor 48
 |Saiounia "Sai" Hughley|Vula| Leeann |30|Simi Valley, CA|Marketing Professional|
 |Shauhin Davari|Lagi| Gramps |38|Costa Mesa, CA|Debate Professor |
 |Star Toomey|Lagi| Jen |28|Augusta, GA|Sales Expert|
-|Stephanie Berger|Vula| Jeff |38|Brooklyn, NY|Tech Product Lead|
 |Thomas Krottinger|Lagi| Annabelle |34|Los Angeles, CA|Music Executive|
+|~~Stephanie Berger~~|Vula| Jeff |38|Brooklyn, NY|Tech Product Lead|

@@ -24,7 +24,7 @@ Survivor 48
 |Joe Hunter|Lagi|45|Sacramento, CA|Fire Captain| Annabelle |
 |Justin Pioppi|Vula|29|Winthrop, MA|Pizzeria Manager| Brandon |
 |Kamilla Karthigesu|Civa|31|Foster City, CA|Software Engineer| Leeann |
-|Kevin Leung|34|Vula|Livermore, CA|Finance Manager| Doggos |
+|Kevin Leung|Vula|34|Livermore, CA|Finance Manager| Doggos |
 |Kyle Fraser|Civa|31|Brooklyn, NY|Attorney| Jeff |
 |Mary Zheng|Vula|31|Philadelphia, PA|Substance Abuse Counselor| Sean |
 |Mitch Guerra|Civa|34|Waco, TX|P.E. Coach| Sean |

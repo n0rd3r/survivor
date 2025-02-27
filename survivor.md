@@ -13,7 +13,7 @@ Survivor 48
 | Doggos | | Bianca Roses | Kevin Leung |
 
 
-| Name | Tribe | Age | Hometown | Occupation | Team |
+| Name | Tribe | Team | Age | Hometown | Occupation |
 | -------- | -------- | -------- | -------- | ----- | ----- |
 |Bianca Roses|Lagi| Doggos |33|Arlington, VA|PR Consultant|
 |Cedrek McFadden|Vula| Jen |45|Greenville, SC|Surgeon|

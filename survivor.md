@@ -16,21 +16,21 @@ Survivor 48
 
 | Name | Tribe | Team | Age | Hometown | Occupation |
 | -------- | -------- | -------- | -------- | ----- | ----- |
-|Bianca|Lagi| Doggos |33|Arlington, VA|PR Consultant|
-|Cedrek|Vula| Jen |45|Greenville, SC|Surgeon|
-|Charity|Civa| Brandon |34|St. Petersburg, FL|Flight Attendant|
+|Bianca|Civa| Doggos |33|Arlington, VA|PR Consultant|
+|Cedrek|Civa| Jen |45|Greenville, SC|Surgeon|
+|Charity|Lagi| Brandon |34|St. Petersburg, FL|Flight Attendant|
 |Chrissy|Civa| Christine |55|Chicago, IL|Fire Lieutenant|
-|David|Civa| Gramps |39|Buena Park, CA|Stunt Performer|
+|David|Lagi| Gramps |39|Buena Park, CA|Stunt Performer|
 |Eva|Lagi| Christine |24|Providence, RI|PhD Candidate|
-|Joe|Lagi| Annabelle |45|Sacramento, CA|Fire Captain|
-|Kamilla|Civa| Leeann |31|Foster City, CA|Software Engineer|
-|Kyle|Civa| Jeff |31|Brooklyn, NY|Attorney|
-|Mary|Vula| Sean |31|Philadelphia, PA|Substance Abuse Counselor|
+|Joe|Vula| Annabelle |45|Sacramento, CA|Fire Captain|
+|Kamilla|Vula| Leeann |31|Foster City, CA|Software Engineer|
+|Kyle|Vula| Jeff |31|Brooklyn, NY|Attorney|
+|Mary|Lagi| Sean |31|Philadelphia, PA|Substance Abuse Counselor|
 |Mitch|Civa| Sean |34|Waco, TX|P.E. Coach|
-|Sai|Vula| Leeann |30|Simi Valley, CA|Marketing Professional|
-|Shauhin|Lagi| Gramps |38|Costa Mesa, CA|Debate Professor |
+|Sai|Civa| Leeann |30|Simi Valley, CA|Marketing Professional|
+|Shauhin|Vula| Gramps |38|Costa Mesa, CA|Debate Professor |
 |Star|Lagi| Jen |28|Augusta, GA|Sales Expert|
-|Thomas|Lagi| Annabelle |34|Los Angeles, CA|Music Executive|
+|Thomas|Vula| Annabelle |34|Los Angeles, CA|Music Executive|
 |~~Justin~~|Vula| Brandon |29|Winthrop, MA|Pizzeria Manager|
 |~~Kevin~~|Vula| Doggos |34|Livermore, CA|Finance Manager|
 |~~Stephanie~~|Vula| Jeff |38|Brooklyn, NY|Tech Product Lead|

@@ -3,13 +3,13 @@ Survivor 48
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
 | Jeff | 12 | Kyle | ~~Stephanie~~ |
-| Annabelle | 8 | Joe | Thomas |
+| Annabelle | 12 | Joe | ~~Thomas~~ |
 | Doggos | 7 | Bianca | ~~Kevin~~ |
-| Sean | 5 | Mary | Mitch |
-| Christine | 4 | Chrissy | Eva |
-| Gramps | 4 | David | Shauhin |
-| Brandon | 4  | Charity | ~~Justin~~ |
-| Jen | 3 | Star | Cedrek |
+| Sean | 6 | Mary | Mitch |
+| Christine | 5 | Chrissy | Eva |
+| Gramps | 5 | David | Shauhin |
+| Brandon | 5  | Charity | ~~Justin~~ |
+| Jen | 4 | Star | Cedrek |
 | Leeann | 3  | Kamilla | Sai |
 
 

@@ -30,7 +30,7 @@ Survivor 48
 |Sai|Civa| Leeann |30|Simi Valley, CA|Marketing Professional|
 |Shauhin|Vula| Gramps |38|Costa Mesa, CA|Debate Professor |
 |Star|Lagi| Jen |28|Augusta, GA|Sales Expert|
-|Thomas|Vula| Annabelle |34|Los Angeles, CA|Music Executive|
+|~~Thomas~~|Vula| Annabelle |34|Los Angeles, CA|Music Executive|
 |~~Justin~~|Vula| Brandon |29|Winthrop, MA|Pizzeria Manager|
 |~~Kevin~~|Vula| Doggos |34|Livermore, CA|Finance Manager|
 |~~Stephanie~~|Vula| Jeff |38|Brooklyn, NY|Tech Product Lead|

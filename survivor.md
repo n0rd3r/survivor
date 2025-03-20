@@ -2,7 +2,7 @@ Survivor 48
 
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
-| Jeff | 12 | Kyle | ~~Stephanie~~ |
+| Jeff | 17 | Kyle | ~~Stephanie~~ |
 | Annabelle | 12 | Joe | ~~Thomas~~ |
 | Doggos | 7 | Bianca | ~~Kevin~~ |
 | Sean | 6 | Mary | Mitch |

@@ -3,14 +3,14 @@ Survivor 48
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
 | Jeff | 21 | Kyle | ~~Stephanie~~ |
-| Annabelle | 13 | Joe | ~~Thomas~~ |
+| Annabelle | 15 | Joe | ~~Thomas~~ |
+| Leeann | 12  | Kamilla | ~~Sai~~ |
 | Doggos | 12 | ~~Bianca~~ | ~~Kevin~~ |
 | Brandon | 12  | ~~Charity~~ | ~~Justin~~ |
+| Gramps | 10 | David | Shauhin |
 | Sean | 8 | Mary | Mitch |
-| Gramps | 8 | David | Shauhin |
 | Christine | 7 | Chrissy | Eva |
 | Jen | 6 | Star | Cedrek |
-| Leeann | 5  | Kamilla | Sai |
 
 
 
@@ -25,9 +25,9 @@ Survivor 48
 |Kyle|Vula| Jeff |31|Brooklyn, NY|Attorney|
 |Mary|Lagi| Sean |31|Philadelphia, PA|Substance Abuse Counselor|
 |Mitch|Civa| Sean |34|Waco, TX|P.E. Coach|
-|Sai|Civa| Leeann |30|Simi Valley, CA|Marketing Professional|
 |Shauhin|Vula| Gramps |38|Costa Mesa, CA|Debate Professor |
 |Star|Lagi| Jen |28|Augusta, GA|Sales Expert|
+|~~Sai~~|Civa| Leeann |30|Simi Valley, CA|Marketing Professional|
 |~~Charity~~|Lagi| Brandon |34|St. Petersburg, FL|Flight Attendant|
 |~~Bianca~~|Civa| Doggos |33|Arlington, VA|PR Consultant|
 |~~Thomas~~|Vula| Annabelle |34|Los Angeles, CA|Music Executive|

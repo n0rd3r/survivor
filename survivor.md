@@ -3,20 +3,19 @@ Survivor 48
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
 | Jeff | 21 | Kyle | ~~Stephanie~~ |
+| Gramps | 20 | ~~David~~ | Shauhin |
 | Christine | 18 | ~~Chrissy~~ | Eva |
-| Annabelle | 15 | Joe | ~~Thomas~~ |
+| Annabelle | 17 | Joe | ~~Thomas~~ |
 | Jen | 14 | Star | ~~Cedrek~~ |
 | Leeann | 12  | Kamilla | ~~Sai~~ |
 | Doggos | 12 | ~~Bianca~~ | ~~Kevin~~ |
 | Brandon | 12  | ~~Charity~~ | ~~Justin~~ |
-| Gramps | 10 | David | Shauhin |
 | Sean | 8 | Mary | Mitch |
 
 
 
 | Name | Tribe | Team | Age | Hometown | Occupation |
 | -------- | -------- | -------- | -------- | ----- | ----- |
-|David|Lagi| Gramps |39|Buena Park, CA|Stunt Performer|
 |Eva|Lagi| Christine |24|Providence, RI|PhD Candidate|
 |Joe|Vula| Annabelle |45|Sacramento, CA|Fire Captain|
 |Kamilla|Vula| Leeann |31|Foster City, CA|Software Engineer|
@@ -25,6 +24,7 @@ Survivor 48
 |Mitch|Civa| Sean |34|Waco, TX|P.E. Coach|
 |Shauhin|Vula| Gramps |38|Costa Mesa, CA|Debate Professor |
 |Star|Lagi| Jen |28|Augusta, GA|Sales Expert|
+|~~David~~|Lagi| Gramps |39|Buena Park, CA|Stunt Performer|
 |~~Chrissy~~|Civa| Christine |55|Chicago, IL|Fire Lieutenant|
 |~~Cedrek~~|Civa| Jen |45|Greenville, SC|Surgeon|
 |~~Sai~~|Civa| Leeann |30|Simi Valley, CA|Marketing Professional|

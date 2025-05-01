@@ -2,11 +2,11 @@ Survivor 48
 
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
-| Jeff | 21 | Kyle | ~~Stephanie~~ |
+| Jen | 25 | ~~Star~~ | ~~Cedrek~~ |
+| Jeff | 23 | Kyle | ~~Stephanie~~ |
 | Gramps | 20 | ~~David~~ | Shauhin |
+| Annabelle | 19 | Joe | ~~Thomas~~ |
 | Christine | 18 | ~~Chrissy~~ | Eva |
-| Annabelle | 17 | Joe | ~~Thomas~~ |
-| Jen | 14 | Star | ~~Cedrek~~ |
 | Leeann | 12  | Kamilla | ~~Sai~~ |
 | Doggos | 12 | ~~Bianca~~ | ~~Kevin~~ |
 | Brandon | 12  | ~~Charity~~ | ~~Justin~~ |
@@ -23,7 +23,7 @@ Survivor 48
 |Mary|Lagi| Sean |31|Philadelphia, PA|Substance Abuse Counselor|
 |Mitch|Civa| Sean |34|Waco, TX|P.E. Coach|
 |Shauhin|Vula| Gramps |38|Costa Mesa, CA|Debate Professor |
-|Star|Lagi| Jen |28|Augusta, GA|Sales Expert|
+|~~Star~~|Lagi| Jen |28|Augusta, GA|Sales Expert|
 |~~David~~|Lagi| Gramps |39|Buena Park, CA|Stunt Performer|
 |~~Chrissy~~|Civa| Christine |55|Chicago, IL|Fire Lieutenant|
 |~~Cedrek~~|Civa| Jen |45|Greenville, SC|Surgeon|

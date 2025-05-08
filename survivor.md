@@ -3,8 +3,8 @@ Survivor 48
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
 | Jen | 25 | ~~Star~~ | ~~Cedrek~~ |
-| Sean | 20 | ~~Mary~~ | Mitch |
 | Jeff | 23 | Kyle | ~~Stephanie~~ |
+| Sean | 20 | ~~Mary~~ | Mitch |
 | Gramps | 20 | ~~David~~ | Shauhin |
 | Annabelle | 19 | Joe | ~~Thomas~~ |
 | Christine | 18 | ~~Chrissy~~ | Eva |

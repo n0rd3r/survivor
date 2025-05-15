@@ -2,10 +2,10 @@ Survivor 48
 
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
+| Gramps | 35 | ~~David~~ | ~~Shauhin~~ |
 | Jen | 25 | ~~Star~~ | ~~Cedrek~~ |
 | Jeff | 23 | Kyle | ~~Stephanie~~ |
 | Sean | 20 | ~~Mary~~ | Mitch |
-| Gramps | 20 | ~~David~~ | Shauhin |
 | Annabelle | 19 | Joe | ~~Thomas~~ |
 | Christine | 18 | ~~Chrissy~~ | Eva |
 | Leeann | 14  | Kamilla | ~~Sai~~ |
@@ -21,7 +21,7 @@ Survivor 48
 |Kamilla|Vula| Leeann |31|Foster City, CA|Software Engineer|
 |Kyle|Vula| Jeff |31|Brooklyn, NY|Attorney|
 |Mitch|Civa| Sean |34|Waco, TX|P.E. Coach|
-|Shauhin|Vula| Gramps |38|Costa Mesa, CA|Debate Professor |
+|~~Shauhin~~|Vula| Gramps |38|Costa Mesa, CA|Debate Professor |
 |~~Mary~~|Lagi| Sean |31|Philadelphia, PA|Substance Abuse Counselor|
 |~~Star~~|Lagi| Jen |28|Augusta, GA|Sales Expert|
 |~~David~~|Lagi| Gramps |39|Buena Park, CA|Stunt Performer|

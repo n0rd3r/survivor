@@ -1,3 +1,5 @@
+# Points
+
 |Points|Achievement|
 | -------- | -------- |
 | 10 | First Voted Off |

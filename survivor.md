@@ -2,15 +2,15 @@ Season 49
 
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
-| Annabelle | 13 | Steven | ~~Nicole~~ |
-| Christine | 6 | Sophie S. | Kristina |
-| Jeff | 5 | Jason | Rizo |
-| Gramps | 3 | Jake | Matt |
-| Sean | 3 | Michelle “MC” | Nate |
+| Annabelle | 14 | Steven | ~~Nicole~~ |
+| Christine | 8 | Sophie S. | Kristina |
+| Gramps | 7 | ~~Jake~~ | Matt |
+| Jeff | 6 | Jason | Rizo |
+| Steve | 4 | Alex | ~~Jeremiah~~ |
+| Sean | 4 | Michelle “MC” | Nate |
 | Brandon | 2  | Jawan | Shannon |
 | Jen | 2 | ~~Annie~~ | Savannah |
 | Leeann | 0  | Sophi B. | Sage |
-| Steve | 0 | Alex | Jeremiah |
 
 
 
@@ -23,8 +23,6 @@ Season 49
 |Sophie S.|Hina|Christine|31|Darnestown, MD|Strategy associate|
 |Steven|Hina|Annabelle|35|Littleton, CO|Rocket scientist|
 |Alex|Kele|Steve|27|Evanston, IL|Political comms director|
-|Jake|Kele|Gramps|36|Regina, Saskatchewan|Correctional officer|
-|Jeremiah|Kele|Steve|39|Windsor, Ontario|Global events manager|
 |Sophi B.|Kele|Leeann|27|Miami, FL|Entrepreneur|
 |Jawan|Uli|Brandon|28|Salem, NJ|Video editor|
 |Nate|Uli|Sean|47|Clovis, CA|Film producer|
@@ -32,5 +30,7 @@ Season 49
 |Sage|Uli|Leeann|30|Roxboro, NC|Clinical social worker|
 |Savannah|Uli|Jen|31|Walnut Creek, CA|Former reporter|
 |Shannon|Uli|Brandon|28|Wakefield, MA|Wellness specialist|
+|~~Jeremiah~~|Kele|Steve|39|Windsor, Ontario|Global events manager|
+|~~Jake~~|Kele|Gramps|36|Regina, Saskatchewan|Correctional officer|
 |~~Annie~~|Kele|Jen|49|Portland, OR|Musician|
 |~~Nicole~~|Kele|Annabelle|26|Long Island, NY|Financial crime consultant|

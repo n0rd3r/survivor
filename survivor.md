@@ -6,11 +6,11 @@ Season 49
 | Christine | 8 | Sophie S. | Kristina |
 | Gramps | 7 | ~~Jake~~ | Matt |
 | Jeff | 6 | Jason | Rizo |
-| Steve | 4 | Alex | ~~Jeremiah~~ |
 | Sean | 4 | Michelle “MC” | Nate |
 | Brandon | 2  | Jawan | Shannon |
 | Jen | 2 | ~~Annie~~ | Savannah |
 | Leeann | 0  | Sophi B. | Sage |
+| Steve | -1 | Alex | ~~Jeremiah~~ |
 
 
 

@@ -2,15 +2,15 @@ Season 49
 
 |Team|Points|P1|P2
 | -------- | -------- | -------- | -------- |
+| Brandon | 22  | ~~Jawan~~ | ~~Shannon~~ |
 | Sean | 21 | ~~Michelle “MC”~~ | ~~Nate~~ |
-| Annabelle | 19 | Steven | ~~Nicole~~ |
-| Christine | 16 | Sophie S. | Kristina |
+| Annabelle | 20 | Steven | ~~Nicole~~ |
 | Jeff | 15 | ~~Jason~~ | Rizo |
+| Christine | 14 | Sophie S. | Kristina |
 | Gramps | 12 | ~~Jake~~ | ~~Matt~~ |
 | Steve | 12 | ~~Alex~~ | ~~Jeremiah~~ |
-| Brandon | 11  | Jawan | ~~Shannon~~ |
-| Jen | 3 | ~~Annie~~ | Savannah |
-| Leeann | 8  | Sophi B. | Sage |
+| Leeann | 10  | Sophi B. | Sage |
+| Jen | 9 | ~~Annie~~ | Savannah |
 
 
 | Name | Tribe | Team | Age | Hometown | Occupation |
@@ -19,10 +19,10 @@ Season 49
 |Sophie S.|Hina|Christine|31|Darnestown, MD|Strategy associate|
 |Steven|Hina|Annabelle|35|Littleton, CO|Rocket scientist|
 |Sophi B.|Kele|Leeann|27|Miami, FL|Entrepreneur|
-|Jawan|Uli|Brandon|28|Salem, NJ|Video editor|
 |Rizo|Uli|Jeff|25|Yonkers, NY|Tech sales|
 |Sage|Uli|Leeann|30|Roxboro, NC|Clinical social worker|
 |Savannah|Uli|Jen|31|Walnut Creek, CA|Former reporter|
+|~~Jawan~~|Uli|Brandon|28|Salem, NJ|Video editor|
 |~~Alex~~|Kele|Steve|27|Evanston, IL|Political comms director|
 |~~Michelle “MC”~~|Hina|Sean|29|Sachse, TX|Fitness trainer|
 |~~Nate~~|Uli|Sean|47|Clovis, CA|Film producer|

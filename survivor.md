@@ -7,9 +7,9 @@ Season 49
 | Brandon | 22  | ~~Jawan~~ | ~~Shannon~~ |
 | Sean | 21 | ~~Michelle “MC”~~ | ~~Nate~~ |
 | Jeff | 15 | ~~Jason~~ | Rizo |
+| Jen | 13 | ~~Annie~~ | Savannah |
 | Gramps | 12 | ~~Jake~~ | ~~Matt~~ |
 | Steve | 12 | ~~Alex~~ | ~~Jeremiah~~ |
-| Jen | 13 | ~~Annie~~ | Savannah |
 | Leeann | 10  | Sophi B. | Sage |
 
 

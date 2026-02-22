@@ -1,4 +1,4 @@
-## Season 50
+Season 50
 
 ## Teams
 

@@ -1,35 +1,56 @@
-Season 49
+Season 50
 
-|Team|Points|P1|P2
-| -------- | -------- | -------- | -------- |
-| Jen | 45 | ~~Annie~~ | Savannah |
-| Leeann | 45  | Sophi B. | Sage |
-| Christine | 40 | ~~Sophie S.~~ | ~~Kristina~~ |
-| Annabelle | 37 | ~~Steven~~ | ~~Nicole~~ |
-| Jeff | 25 | ~~Jason~~ | ~~Rizo~~ |
-| Brandon | 22  | ~~Jawan~~ | ~~Shannon~~ |
-| Sean | 21 | ~~Michelle “MC”~~ | ~~Nate~~ |
-| Gramps | 12 | ~~Jake~~ | ~~Matt~~ |
-| Steve | 12 | ~~Alex~~ | ~~Jeremiah~~ |
+|Team|Points|P1|P2|P3|
+| -------- | -------- | -------- | -------- | -------- |
+| Jen |  |  |  |  |
+| Leeann |   | | |  |
+| Christine |  |  |  |  |
+| Annabelle |  | | |  |
+| Brandon |   |  | |  |
+| Sean |  |  |  |  |
+| Gramps |  |  | |  |
+| Steve |  |  |  |  |
 
 
-| Name | Tribe | Team | Age | Hometown | Occupation |
-| -------- | -------- | -------- | -------- | ----- | ----- |
-|Savannah|Uli|Jen|31|Walnut Creek, CA|Former reporter|
-|Sophi B.|Kele|Leeann|27|Miami, FL|Entrepreneur|
-|Sage|Uli|Leeann|30|Roxboro, NC|Clinical social worker|
-|Rizo|Uli|Jeff|25|Yonkers, NY|Tech sales|
-|~~Kristina~~|Hina|Christine|36|Houston, TX|MBA career coach|
-|~~Steven~~|Hina|Annabelle|35|Littleton, CO|Rocket scientist|
-|~~Sophie S.~~|Hina|Christine|31|Darnestown, MD|Strategy associate|
-|~~Jawan~~|Uli|Brandon|28|Salem, NJ|Video editor|
-|~~Alex~~|Kele|Steve|27|Evanston, IL|Political comms director|
-|~~Michelle “MC”~~|Hina|Sean|29|Sachse, TX|Fitness trainer|
-|~~Nate~~|Uli|Sean|47|Clovis, CA|Film producer|
-|~~Shannon~~|Uli|Brandon|28|Wakefield, MA|Wellness specialist|
-|~~Jason~~|Hina|Jeff|32|Anaheim, Calif.|Law clerk|
-|~~Matt~~|Hina|Gramps|52|Farmington, UT|Airport ramp agent|
-|~~Jeremiah~~|Kele|Steve|39|Windsor, Ontario|Global events manager|
-|~~Jake~~|Kele|Gramps|36|Regina, Saskatchewan|Correctional officer|
-|~~Annie~~|Kele|Jen|49|Portland, OR|Musician|
-|~~Nicole~~|Kele|Annabelle|26|Long Island, NY|Financial crime consultant|
+| Name | Tribe | Team |
+| -------- | -------- | -------- |
+| Angelina Keeley | Vatu
+| Aubry Bracco | Vatu
+| Benjamin "Coach" Wade | Kalo
+| Charlie Davis | Kalo
+| Chrissy Hofbeck | Kalo
+| Christian Hubicki | Cila
+| Cirie Fields | Cila
+| Colby Donaldson | Vatu
+| Dianelys "Dee" Valladares | Kalo
+| Emily Flippen | Cila
+| Genevieve Mushaluk | Vatu
+| Jenna Lewis-Dougherty | Cila
+| Joe Hunter | Cila
+| Jonathan Young | Kalo
+| Kamilla Karthigesu | Kalo
+| Kyle Fraser | Vatu
+| Mike White | Kalo
+| Oscar "Ozzy" Lusth | Cila
+| Quintavius "Q" Burdette | Vatu
+| Rick Devens | Cila
+| Rizo Velovic | Vatu
+| Savannah Louie | Cila
+| Stephenie LaGrossa Kendrick | Vatu
+| Tiffany Ervin | Kalo
+
+## Scoring
+
+| Points | Acheivement |
+| -------- | -------- |
+| x	 | Number voted out
+| 10 | First Voted Out
+| 10 | Winning Survivor
+| 5  | Points for being in final
+| 5  | Properly Played Hidden Immuinity Idol
+| 3  | Winning Fire Challenge
+| 2  | Acheiving hidden immunity idol
+| 2  | Individual Challenge Win
+| 1  | Tribe Challenge Win
+| 1  | Gaining an Advantage
+| x  | Commissioner Descrection for outstanding play

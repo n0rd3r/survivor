@@ -1,4 +1,6 @@
-Season 50
+# Season 50
+
+## Teams
 
 |Team|Points|P1|P2|P3|
 | -------- | -------- | -------- | -------- | -------- |
@@ -11,6 +13,7 @@ Season 50
 | Gramps |  |  | |  |
 | Steve |  |  |  |  |
 
+## Survivors
 
 | Name | Tribe | Team |
 | -------- | -------- | -------- |

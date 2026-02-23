@@ -49,10 +49,10 @@ Season 50
 | x	 | Number voted out
 | 10 | First Voted Out
 | 10 | Winning Survivor
-| 5  | Points for being in final
+| 5  | Points for being in final three
 | 5  | Properly Played Hidden Immunity Idol
 | 3  | Winning Fire Challenge
-| 2  | Acheiving hidden immunity idol
+| 2  | Possessing a hidden immunity idol
 | 2  | Individual Challenge Win
 | 1  | Tribe Challenge Win
 | 1  | Gaining an Advantage
